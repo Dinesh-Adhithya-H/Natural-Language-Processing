@@ -3,7 +3,6 @@
 """
 Created on Thu Sep  9 16:32:07 2021
 
-@author: Tanmay Basu
 """
 
 import csv,sys
